@@ -11,3 +11,4 @@ Asset sets imported from fab:
 - Mega Magic VFX Bundle ( https://www.fab.com/listings/d0b1351a-acbf-4da6-ab4e-32fc934a255f )
 - Mixed VFX ( https://www.fab.com/listings/6518971c-c8ca-47d7-8611-1ff068b78dd5 )
 - Polar Sci-Fi Facility ( https://www.unrealengine.com/marketplace/en-US/product/polar-sci-fi-facility )
+- Science Fiction Valley Town ( https://www.fab.com/listings/2e7272b6-6aea-4ab4-a478-112f0cac2635 )
