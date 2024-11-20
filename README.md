@@ -10,3 +10,4 @@ Asset sets imported from fab:
 - Basic Pickups VFX Set (Niagara) ( https://www.fab.com/listings/166d8257-d5af-4b8d-bd6c-1ea6d761b07e )
 - Mega Magic VFX Bundle ( https://www.fab.com/listings/d0b1351a-acbf-4da6-ab4e-32fc934a255f )
 - Mixed VFX ( https://www.fab.com/listings/6518971c-c8ca-47d7-8611-1ff068b78dd5 )
+- Polar Sci-Fi Facility ( https://www.unrealengine.com/marketplace/en-US/product/polar-sci-fi-facility )
